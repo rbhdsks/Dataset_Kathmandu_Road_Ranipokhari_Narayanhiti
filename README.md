@@ -1,4 +1,4 @@
-# Kathmandu Road Dataset: Ranipokhari to Narayanhiti Durbar
+# Kathmandu Road Dataset: Ranipokhari to Narayanhiti Durbar Museum
 
 ## Overview
 
